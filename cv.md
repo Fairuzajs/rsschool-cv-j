@@ -13,8 +13,17 @@
 * SQL
 * MS Office
 ## Education
-1. Ufa State Petroleum Technick University
-2. Hexlet
+1. Ufa State Petroleum Technological University
+    + Geology and Exploration of oil and gas fields
+2. IT school "Orbita"
+    + Mental Math Instructor
+3. HTML Academiya
+    + "HTML. CSS"
+4. Code-basics free courses
+    + HTML
+    + CSS
+    + Java Script
+
 ## Language
 * English: pre-intermadiate
 * Russia: native
